@@ -1,0 +1,22 @@
+{
+  "name": "utilities",
+  "version": "1.0.0",
+  "description": "common javascipt utility functions which are commonly used",
+  "main": "DateFormatter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Rupesh-Gudmalwar/Utilities.git"
+  },
+  "author": "Rupesh G",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rupesh-Gudmalwar/Utilities/issues"
+  },
+  "homepage": "https://github.com/Rupesh-Gudmalwar/Utilities#readme",
+  "dependencies": {
+    "moment": "^2.29.4"
+  }
+}
